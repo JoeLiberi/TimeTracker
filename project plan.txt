@@ -1,0 +1,41 @@
+
+Project Name: ttracker
+Description: Based on Bobs personal time tracker OneNote
+
+Apps:
+	- Home Page:
+		- Display recent timetracker objects.
+		- Have a section to search, create new timetrackers, or send a time tracker.
+		- Reporting section
+			- Run reports on various different objects in the project
+
+		- Each timetracker object will call on the following apps:
+
+			- Timesheet Notes
+				- Table style area
+				- Three columns, Catagory, Description and Time Spent in hours
+			- Location
+				- Sidebar style 
+				- location section
+			- Checklist
+				- Sidebar style 
+				- checklist that can be orded, sorted or moved.
+			- Expenses
+				- Sidebar style
+				- Multiple catagories that allows the user to keep track of expenses
+				- Enable use to add custom expense catagories
+			- ToDo List
+				- ToDo style sidebar
+				- Create recurring tasks on a daily, monthly, or yearly basis
+				- Maybe integrate some email functionality
+			- Scratch Pad
+				- Bottom section
+				- Fit the width of the screen
+				- Should have basic word proccessing capabilities
+				- Allow for sharing and emailing of the scratch pad
+				- Integrate some diagram capabilties also, extremly dumbed down version of Viso. Think draw.io
+
+	- User Module
+		- Standard user module
+		- Users have their own storage, profile
+		- Gmail integration
